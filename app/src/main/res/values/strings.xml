@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ondru Testah</string>
+    <string name="osanaikai">押さないかい？</string>
+    <string name="button">Button</string>
+    <string name="ondruWarn">ｵﾝﾄﾞｩﾙ\nﾙﾗｷﾞｯﾀﾝ\nﾃﾞｨｽｶｰ!</string>
+    <string name="returningButton">Return?</string>
+</resources>
